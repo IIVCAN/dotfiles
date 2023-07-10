@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = vranjican.ingrid@gmail.com
+	name = ingrid vranjican
